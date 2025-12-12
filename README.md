@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Damyan</h1>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=damyandt&show_icons=true&locale=en" height="150" alt="damyandt" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damyandt&show_icons=true&locale=en&layout=compact" height="150" alt="damyandt" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damyandt&theme=default" height="150" alt="damyandt" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damyandt&theme=default" height="150" alt="damyandt" />
 </div>
 
 <div>
