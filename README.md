@@ -8,7 +8,7 @@
 <div>
   <h3 align="center">A passionate developer from Bulgaria</h3>
   <div align="center">
-    <p>👨‍💻 All of my projects are available at https://portfolio-damyandt.netlify.app</p>
+    <p>👨‍💻 Some of my small projects are available at https://portfolio-damyandt.netlify.app</p>
     <p>📫 How to reach me: damqn_dimitrov1111@icloud.com</p>
   </div>
 </div> 
